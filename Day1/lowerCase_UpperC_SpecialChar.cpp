@@ -10,7 +10,7 @@ int main(){
 
     string ch = "Ankita Singh";
 
-    cout<<"LowerCase of the Char is: " <<tolower(ch)<<endl;
+cdcd    cout<<"LowerCase of the Char is: " <<tolower(ch)<<endl;
 
 
     return 0;
