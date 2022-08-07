@@ -4,15 +4,18 @@
 using namespace std;
 
 int main(){
-
     int num;
     cout<<"Enter any number:"<<endl;
-    cin>>num;
+     cin>>num;
+    int arr[num];
+    int count = 0;
 
-    for(int i=0; i<=num; i++){
-        int digit = num[i];
+
+
+    for(int i=0; i<=sizeof(arr); i++){
+        count++;
     }
-    cout<<"Number of digits in an integer "<<num<<" is "<<digit<<endl;
+    cout<<"Number of digits in an integer "<<num<<" is "<<count<<endl;
 
     return 0;
 }
