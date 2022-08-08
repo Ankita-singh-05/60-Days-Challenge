@@ -1,19 +1,17 @@
-//Number of digits in an integer
+//Number of digits in an integer using formula
 
 #include<iostream>
+#include<cmath>
 using namespace std;
 
 int main(){
     int num;
     cout<<"Enter any number:"<<endl;
     cin>>num;
-    int digit = 0;
 
+    //using formula
+    int digit = floor(log10(num)) + 1 ;
 
-    while(num!=0){
-             num = num/10;
-             digit++;
-    }
 
 
     cout<<"Number of digits in an integer is: "<<digit<<endl;
