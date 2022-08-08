@@ -1,7 +1,4 @@
 //Sum of numbers in a given range
-//Fibonacci series up to n
-//Leap year or not
-
 
 #include<iostream>
 using namespace std;
