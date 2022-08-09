@@ -1,5 +1,4 @@
 //Prime number or not
-//Armstrong number or not
 //Strong number or not
 //Perfect number or not
 
