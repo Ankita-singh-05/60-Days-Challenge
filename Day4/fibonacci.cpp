@@ -5,15 +5,22 @@ using namespace std;
 
 int main(){
 
-    int num, fibo=0;
+    int num, fibo1=0, fibo2=1, nextTerm;
     cout<<"Enter any number:"<<endl;
     cin>>num;
 
-    for(int i=1; i<=num; i++){
-        fibo = fibo + i;
+    cout<<"Fibonacci of the number is:"<<endl;
+    for(int i=2; i<=num; i++){
+        nextTerm = fibo1 + fibo2;
+        fibo1 = fibo2;
+        fibo2 = nextTerm;
+
+        cout<<nextTerm<<" ";
     }
 
-    cout<<"Fibonacci of the number is:"<<fibo<<endl;
+
+
+
 
     return 0;
 }
