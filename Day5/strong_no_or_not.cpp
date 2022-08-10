@@ -1,5 +1,7 @@
 //Strong number or not
 
+//STRONG NUMBER - Number whose sum of the factorial of digits is equal to the original number
+
 #include<iostream>
 using namespace std;
 

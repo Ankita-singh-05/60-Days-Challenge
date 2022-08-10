@@ -1,5 +1,7 @@
 //Palindrome or not
 
+//PALINDROME NUMBER - Number which remains same after reversing the number
+
 #include<iostream>
 using namespace std;
 
