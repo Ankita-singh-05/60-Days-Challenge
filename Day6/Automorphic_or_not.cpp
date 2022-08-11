@@ -1,7 +1,10 @@
 //Automorphic number or not
 
 
-// AUTOMORPHIC NUMBER - Number
+// AUTOMORPHIC NUMBER - 25^2 = 625
+
+//In the above example the integer number and square of the number ends with same digit hence it is automorphic
+
 //Harshad number or not
 //Abundant number or not
 //Power of a number
