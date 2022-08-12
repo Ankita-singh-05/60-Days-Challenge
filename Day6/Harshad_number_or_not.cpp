@@ -1,9 +1,11 @@
 //Harshad number or not
 
+//Harshad Number - It is the sum of the digit of numbers divisble by the number itself is called Harshad number
+
 // Ex - 156 is a harshad number
 // 1+5+6 = 12
 // and 12 is divisible by 156
-//Examples - 6804, 2022, 378, 17, 21
+//Examples - 6804, 2022, 378, 7, 21
 
 #include<iostream>
 using namespace std;
