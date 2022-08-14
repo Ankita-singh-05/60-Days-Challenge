@@ -5,7 +5,6 @@
 
 //In the above example the integer number and square of the number ends with same digit hence it is automorphic
 
-//Power of a number
 //Factors of a numbercd
 //Add two fractions
 
