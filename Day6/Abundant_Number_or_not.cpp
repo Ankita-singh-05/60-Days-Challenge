@@ -1,6 +1,7 @@
 //Abundant number or not
 
 // ABUNDANT NUMBER or excessive number is a number for which the sum of its proper divisors is greater than the number
+//1Example - 12
 
 #include<iostream>
 using namespace std;

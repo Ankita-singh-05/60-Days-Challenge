@@ -1,6 +1,6 @@
 //Harshad number or not
 
-//Harshad Number - It is the sum of the digit of numbers divisble by the number itself is called Harshad number
+//Harshad Number - It is the sum of the digit of numbers is divisible by the number itself is called Harshad number
 
 // Ex - 156 is a harshad number
 // 1+5+6 = 12

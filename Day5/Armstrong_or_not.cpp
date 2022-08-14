@@ -1,5 +1,9 @@
 //Armstrong number or not
 
+//Armstrong number is a number that is equal to the sum of cubes of its digits
+
+// Example - 153
+
 #include<iostream>
 using namespace std;
 

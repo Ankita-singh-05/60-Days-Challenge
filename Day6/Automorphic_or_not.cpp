@@ -1,12 +1,9 @@
-//Automorphic number or not
-
+//AUTOMORPHIC number or not
 
 // AUTOMORPHIC NUMBER - 25^2 = 625
 
 //In the above example the integer number and square of the number ends with same digit hence it is automorphic
 
-//Factors of a numbercd
-//Add two fractions
 
 #include<iostream>
 using namespace std;
